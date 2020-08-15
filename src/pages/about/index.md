@@ -1,19 +1,37 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: 貯蓄からポイント活用へ
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 生活の一部になったポイント
+ポイントは、キャッシュレスやモバイルの普及によって、急激に一般化しました。
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+昔は航空会社のマイルやクレジットカード、お店独自のポイントシステムが中心でしたが、今はコンビニでもドラッグストアでもスーパーでもデパートでも、貯めるポイントを選べるようになりました（例：TポイントやPonta、楽天ポイント、dポイント）
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+電子マネーもポイントシステムを必ずと言っても良いほど採用しています（例：PayPayを使うとTポイント、auペイを使うとPontaが貯まる、など）
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+クレジットカードも、クレカ独自のポイントに加えて、別のポイントシステムとも提携するようになりました。さらに、最近はSUICAやPASMOなどの交通系カードでもポイントが貯まります。
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 貯蓄（銀行）よりも断然お得
+ポイントは、銀行、証券口座、現金、電子マネー、クレジットカード、ECサイト、店舗など、お金を使ったり貯めたりするあらゆる場所で、何段階にも渡って、貯まっていきます。
+
+例えば、楽天では楽天銀行から引き落とされる楽天カードを使い、セール中に10店舗で少しずつ買い物をすると、ポイントは15倍、20倍、と膨らんでいきます。
+
+他にも、ポイントが貯まるクレジットカードで別のポイントをチャージしたり、店舗のポイントとクレカのポイントとPontaを3重取りする、キャンペーンやクーポンを使って10倍のポイントをGETする、など、上手に活用すると利回りは１０パーセントを超えるでしょう。
+
+### 消費しなくてもポイントを増やせる
+買い物の金額に応じてポイントをもらうだけではありません。ちょっとしたゲームをする、リンクをクリックしてサイトにアクセスする、毎日アプリを開くなど、スキマ時間を使ってポイントを増やすこともできます。
+
+また、ポイントを投資して増やせるサービスが、コロナ以降に急に増えました。株や投資信託のような投資先を選び、ポイント数を預けたり引き出したりできます。
+
+### ポイントはお金と同じ
+さらに、ポイントは他のポイントやマイルと相互に交換もできるようになりました。
+
+デジタルやモバイル、キャッシュレスが普及した今では、ポイントはお金と同じなのです。
+
+### お金をどう動かすかが重要
+昔は、お金は銀行に預けて貯蓄し、「何を買うか」「どこで買うか」を検討することが重要でしたが、銀行の利子はゼロに等しく、商品の違いや価格の差もあまりなくなってきました。そのため、今は「何で支払うか」「お金をどう経由させるか」の方が重要です。
+
+### 「貯める」から「増やす」へ
+限られた収入を貯めて増やすのには限界があります。収入が増えにくい昨今、家計を上手にやりくりするためには、投資の勉強や、ポイントの戦略的な活用が効果的です。このうち、投資は勉強が必要でリスクも高いですが、ポイント活用は誰でもでき、リスクはありません。
+お金をどのような順番でどこを経由して移動させ、貯めたポイントをどこに集めるのか、最終的にいつどう使うのか、という方針を固めると良いでしょう。
