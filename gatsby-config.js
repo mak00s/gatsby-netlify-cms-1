@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Point 999 Click',
+    title: 'Point 999',
     description:
       'クリックと買い物でポイントを収入に変える方法を紹介（普通の人向け）',
   },
