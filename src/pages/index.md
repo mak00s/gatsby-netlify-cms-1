@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Point 999 Click
+title: Point 999
 image: /img/home-jumbotron.jpg
 heading: Why Points?
 subheading: ポイント活用で賢く貯蓄・買い物を
