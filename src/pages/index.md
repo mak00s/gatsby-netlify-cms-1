@@ -6,7 +6,7 @@ heading: Why Points?
 subheading: ポイント活用で賢く貯蓄・買い物しよう
 mainpitch:
   title: About
-  description: 誰でもできる〜上手にポイントを貯めて賢くお買い物できる方法を研究しています。
+  description: 上手にポイントを貯めて賢くお買い物できる方法を紹介（普通の人向け）
 description: ポイントは、キャッシュレスやモバイルの普及によって、マイルよりも一般化しました。
 intro:
   blurbs:
