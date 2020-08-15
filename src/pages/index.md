@@ -1,56 +1,30 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Point 999
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: 貯蓄からポイント活用へ
+subheading: ポイントで賢く貯蓄・投資しよう
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: このサイトについて
+  description: 無駄な登録や申込をしないで、上手にポイントを貯めながら、毎日賢く生活する方法と実践結果をご紹介
+description: ポイントは、キャッシュレスやモバイルの普及によって、マイルよりも一般化しました。PayPayを使うとTポイントが、auペイだとPontaが貯まります。コンビニでもドラッグストアでもスーパーでもデパートでも、貯めるポイントをTポイントやPonta、楽天ポイント、dポイントなどから選べます。お店独自のポイントシステムと両方とも二重取りできることもあります。場所を問わず、クレジットカードで支払いをすると、クレカのポイントや提携するTポイントなどが貯まります。そして、ポイントは他のポイントやマイルと相互に交換もできるようになりました。
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: PayPayを使うとTポイントが、auペイだとPontaが貯まります。コンビニでもドラッグストアでもスーパーでもデパートでも、貯めるポイントをTポイントやPonta、楽天ポイント、dポイントなどから選べます。お店独自のポイントシステムと両方とも二重取りできることもあります。場所を問わず、クレジットカードで支払いをすると、クレカのポイントや提携するTポイントなどが貯まります。そして、ポイントは他のポイントやマイルと相互に交換もできるようになりました。
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: つまり、お金を使ったり貯めたりするあらゆる場所で、いろいろなポイントが貯まる時代になったのです。還元率も、上手に運用すれば数パーセントを超えます。昔のように「ポイントは恥ずかしいのでやらない」と無視するのは、貴重な収入の一部を無駄に捨てているようなものです。銀行の利子が下がり、収入も増えにくくなった今、どうせ使うお金を上手に管理し、かつ余った時間を少し投資して、賢く暮らしたいものです。
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: |-
+        ポイント攻略方法のサイトは多いですが、普通の人には真似できない方法が多く、あまり参考になりません。
+        ・無駄にクレジットカードを増やしたくない
+        ・会員登録で個人情報をばら撒きたくない
+        ・ゲームなどのアプリをインストールするのは時間の無駄
+        ・紹介や購入アフィリエイトのためにサイトを作るのは大変
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: 当サイトでは、もっと普通の人が、余った時間で毎日少しずつ、でも極限まで効率よく、最大のポイントを獲得する方法を常に研究し、実践した結果も毎日更新しています。
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: ポイントは、キャッシュレスやモバイルの普及によって、マイルよりも一般化しました。
 main:
   heading: Great coffee with no compromises
   description: >
